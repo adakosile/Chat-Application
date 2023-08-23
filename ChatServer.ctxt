@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ChatServer
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=e
+comment10.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment11.params=e
+comment11.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment12.params=e
+comment12.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment2.params=
+comment2.target=ChatServer()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ updateClientList()
+comment5.params=inputname\ messagetype\ message
+comment5.target=void\ broadcast(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=e
+comment6.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment7.params=e
+comment7.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+comment8.params=e
+comment8.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment9.params=e
+comment9.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+numComments=13
